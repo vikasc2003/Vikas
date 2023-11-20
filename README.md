@@ -1,5 +1,4 @@
 # Vikas
-About Me
 I'm a current B.Tech student in Industrial Engineering at NIT Jalandhar, passionate about harnessing data for impactful solutions.
 
 Education
